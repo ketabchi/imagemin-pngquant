@@ -1,6 +1,6 @@
 {
 	"name": "imagemin-pngquant-envbin",
-	"version": "9.0.2",
+	"version": "9.0.3",
 	"description": "Imagemin plugin for `pngquant` enabled environment variable for downloading pngquant binary",
 	"license": "MIT",
 	"repository": "ketabchi/imagemin-pngquant",
